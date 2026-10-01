@@ -6,4 +6,4 @@ Conectando con Procesador de texto
 > *  Estilos de Encabezados.
 > *  Tabla de Contenido.
 ---
-Link:[[VISUALIZAR](https://docs.google.com/document/d/1dH-M5aHlPUUikOLTGunFisdOE1fZondcwAdON3bQ-V4/edit?usp=sharing)
+Link:[[VISUALIZAR](https://docs.google.com/document/d/1dH-M5aHlPUUikOLTGunFisdOE1fZondcwAdON3bQ-V4/edit?usp=sharing)]
